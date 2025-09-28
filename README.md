@@ -69,13 +69,13 @@ Year-on-year and month-on-month comparisons highlight evolving cost dynamics and
 ## Screenshots  
 
 ### Dashboard Overview  
-![Dashboard Overview](https://github.com/SuperfiedStudd/Power-BI-Overhead-Costs-vs-Production/blob/main/docs/dashboard_overview.png?raw=true)  
+![Dashboard Overview](https://github.com/SuperfiedStudd/Power-BI-Overhead-Costs-V-S-Production/blob/main/docs/dashboard_overview.png?raw=true)  
 
 ### Overhead Breakdown  
-![Overhead Breakdown](https://github.com/SuperfiedStudd/Power-BI-Overhead-Costs-vs-Production/blob/main/docs/overhead_breakdown.png?raw=true)  
+![Overhead Breakdown](https://github.com/SuperfiedStudd/Power-BI-Overhead-Costs-V-S-Production/blob/main/docs/overhead_breakdown.png?raw=true)  
 
 ### Production vs Cost Trends  
-![Production vs Cost Trends](https://github.com/SuperfiedStudd/Power-BI-Overhead-Costs-vs-Production/blob/main/docs/trends.png?raw=true)  
+![Production vs Cost Trends](https://github.com/SuperfiedStudd/Power-BI-Overhead-Costs-V-S-Production/blob/main/docs/trends.png?raw=true)  
 
 ---
 
